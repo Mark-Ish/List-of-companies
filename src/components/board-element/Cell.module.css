@@ -1,0 +1,30 @@
+.li {
+  width: 100%;
+}
+
+.liSelected {
+  background-color: rgba(80, 221, 85, 0.71);
+  border-radius: 5px;
+}
+
+.inputTitle {
+  display: inline;
+  margin: 10px;
+  background-color: rgb(75, 75, 75);
+  color: white;
+  border: 1px solid rgb(87, 87, 87);
+  border-radius: 4px;
+  padding: 3px;
+  outline: 2px solid transparent;
+}
+
+.inputAddress {
+  display: inline;
+  margin: 10px;
+  background-color: rgb(75, 75, 75);
+  color: white;
+  border: 1px solid rgb(87, 87, 87);
+  border-radius: 4px;
+  padding: 3px;
+  outline: 2px solid transparent;
+}

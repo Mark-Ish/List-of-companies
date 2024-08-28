@@ -1,0 +1,13 @@
+.Footer {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(59, 59, 59, 0.745);
+  padding: 10px;
+}
+
+.AddBlok {
+  margin-right: 10px;
+}
+.DeleteBlok {
+  margin-left: 10px;
+}
