@@ -10,7 +10,7 @@ export const BoardHeading = () => {
 
   useEffect(() => {
     if (stateDelete) {
-      setIsChecked((el) => (el = false))
+      setIsChecked(false)
     }
   }, [stateDelete])
 
